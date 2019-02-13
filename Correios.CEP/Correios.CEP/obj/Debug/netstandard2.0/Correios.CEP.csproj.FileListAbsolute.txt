@@ -1,0 +1,9 @@
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\bin\Debug\netstandard2.0\Correios.CEP.deps.json
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\bin\Debug\netstandard2.0\Correios.CEP.dll
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\bin\Debug\netstandard2.0\Correios.CEP.pdb
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\obj\Debug\netstandard2.0\Correios.CEP.csprojAssemblyReference.cache
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\obj\Debug\netstandard2.0\Correios.CEP.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\obj\Debug\netstandard2.0\Correios.CEP.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\obj\Debug\netstandard2.0\Correios.CEP.AssemblyInfo.cs
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\obj\Debug\netstandard2.0\Correios.CEP.dll
+C:\Users\muril\source\repos\Correios.CEP\Correios.CEP\obj\Debug\netstandard2.0\Correios.CEP.pdb
