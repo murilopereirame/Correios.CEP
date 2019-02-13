@@ -7,7 +7,7 @@ API destinada a .NET com objetivo de realizar a busca de endereços a partir do 
 ## Exemplo:
 
 ```
-cepConsulta address = correiosCEP.GetAddress(19010-270);
+cepConsulta address = correiosCEP.GetAddress("19010-270");
 Console.WriteLine(address.Rua);
 Console.WriteLine(address.Bairro);
 Console.WriteLine(address.Cidade);
